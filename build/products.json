@@ -1,0 +1,880 @@
+{
+ "surfaces": [
+  {
+   "name": "Lumina",
+   "slug": "lumina",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Lumina benchtop evokes pristine purity and timeless elegance with its brilliant white colour, creating a bright, uplifting atmosphere and acting as a versatile blank canvas for any design.",
+   "intro": [
+    "Our Lumina benchtop evokes a sense of pristine purity and timeless elegance. A brilliant, crisp white colour, reminiscent of freshly fallen snow. This surface creates a bright and uplifting atmosphere in any space. The brightness of a Lumina benchtop can help to amplify natural light, making a space feel larger and more inviting.",
+    "A Lumina benchtop acts as a perfect blank canvas, allowing other design elements in the room to shine while still providing a sophisticated and timeless foundation."
+   ],
+   "features": [
+    "A bright, clean, and luminous white colour.",
+    "Possesses a subtle warmth, preventing it from feeling sterile.",
+    "Brightens and expands smaller spaces, while in larger rooms, it creates a sense of airy openness."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-lumina.webp",
+   "room": "craftmark-surfaces-kitchen-bathroom-lumina-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-lumina-modern-light-benchtop-installer.webp"
+   ],
+   "tone": "Bright white / subtle warmth"
+  },
+  {
+   "name": "Calacatta Oro",
+   "slug": "calacatta-oro",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Calacatta Oro benchtop evokes timeless elegance and luxurious warmth with its creamy white background, bold gold and caramel veining, and dynamic pattern, creating a statement piece that complements both traditional and contemporary designs.",
+   "intro": [
+    "A Calacatta Oro benchtop evokes a sense of timeless elegance and luxurious warmth. The veining typically flows in a dynamic, organic pattern, creating a sense of movement and visual interest. It can be a statement piece in a kitchen or bathroom, adding a touch of grandeur and creating a focal point for the space."
+   ],
+   "features": [
+    "Creamy white or off-white background is interwoven with bold, dramatic veining in shades of gold, caramel, and sometimes subtle hints of grey.",
+    "Overall impression is one of opulence and sophistication, reminiscent of classic Italian marble.",
+    "Surprisingly versatile, complementing both traditional and contemporary design styles."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-calacatta-oro.webp",
+   "room": "craftmark-surfaces-kitchen-bathroom-calacatta-oro-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-bathroom-calacatta-oro-sample-installer.webp"
+   ],
+   "tone": "Creamy white / gold and caramel veining"
+  },
+  {
+   "name": "Calacatta Grigio",
+   "slug": "calacatta-grigio",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Calacatta Grigio benchtop offers a sophisticated and contemporary feel with its cool grey base, striking veins, and balance of timeless elegance and modern subtlety, complementing a wide range of design styles.",
+   "intro": [
+    "Calacatta Grigio offers sophisticated and contemporary feel, balancing the timeless elegance of marble with a more modern, understated palette. A Calacatta Grigio benchtop can add a touch of drama and visual interest to a space without being overly assertive, making it a perfect choice for those seeking a balance between style and subtlety."
+   ],
+   "features": [
+    "The base colour is a cool, elegant shade of grey, ranging from light to medium in tone.",
+    "Striking veins of varying intensity and colour flow in dynamic patterns.",
+    "Complements a wide range of design styles, from minimalist and industrial to classic and transitional."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-calacatta-grigio.webp",
+   "room": "craftmark-surfaces-kitchen-bathroom-calacatta-grigio-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-calacatta-grigio-modern-benchtop-installer.webp"
+   ],
+   "tone": "Cool grey / bold flowing veins"
+  },
+  {
+   "name": "Altus Classico",
+   "slug": "altus-classico",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Altus Classico benchtop evokes mystery and subtle sophistication with its light to medium grey tones, soft cloud-like pattern, and gentle neutrality, complementing minimalist aesthetics and natural materials.",
+   "intro": [
+    "Our Altus Classico benchtop evokes a sense of mystery and subtle sophistication, like a gentle mist rolling across a landscape. The overall impression is one of gentle neutrality, with no harsh contrasts or dominant colours. The surface features subtle veining or a soft, cloud-like pattern, mimicking the diffused, almost hazy appearance of fog.",
+    "Altus Classico is a versatile choice that complements a wide range of design styles, particularly those that emphasise natural materials, minimalist aesthetics, or a sense of quiet elegance."
+   ],
+   "features": [
+    "The colour palette is of light to medium greys, often with subtle undertones of blue or green.",
+    "The texture has a soft, almost cloud-like pattern.",
+    "Brightens a space with its light, neutral tones, while the subtle patterning adds a touch of intrigue and prevents it from appearing flat or sterile."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-altus-classico.webp",
+   "room": "craftmark-surfaces-kitchen-bathroom-altus-classico-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-bathroom-nebbia-sample-installer-2.webp",
+    "craftmark-surfaces-kitchen-bathroom-altus-classico-sample-installer.webp"
+   ],
+   "tone": "Light to mid grey / soft cloud pattern"
+  },
+  {
+   "name": "Carrara Pietra",
+   "slug": "carrara-pietra",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Carrara Pietra benchtop embodies classic Italian elegance with a contemporary twist, featuring a soft light grey base, delicate feathery grey veining, and a clean, calming aesthetic that complements various design styles.",
+   "intro": [
+    "A Carrara Pietra benchtop embodies classic Italian elegance with a contemporary twist. It can brighten a space, adding a touch of classic charm while seamlessly blending with various design styles, from traditional to modern minimalist. It offers a clean, crisp aesthetic that is both calming and elegant, making it a popular choice for kitchens and bathrooms."
+   ],
+   "features": [
+    "Delicate, feathery grey veining runs through the stone, creating a subtle yet sophisticated pattern.",
+    "The base colour is a soft, light grey, often with subtle undertones of blue or green.",
+    "Brighten a space with its light, neutral tones and subtle veining without being overwhelming."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-carrara-pietra.webp",
+   "room": "craftmark-surfaces-kitchen-bathroom-carrara-pietra-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-bathroom-carrara-pietra-sample-installer.webp"
+   ],
+   "tone": "Soft light grey / fine feathery veining"
+  },
+  {
+   "name": "Aurora Cloud",
+   "slug": "aurora-cloud",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Aurora Cloud benchtop evokes ethereal beauty and serene sophistication with its light, airy base, delicate grey and white veining, and contemporary marble-like feel, creating a bright and calming foundation for any space.",
+   "intro": [
+    "An Aurora Cloud benchtop evokes a sense of ethereal beauty and serene sophistication. The \"Aurora\" element hints at the luxurious feel of marble, but with a lighter, more contemporary touch. The veins are subtle and diffused, rather than bold and sharply defined, lending a gentle, almost dreamlike quality to the surface.",
+    "This benchtop brightens a space, creating a sense of airiness and calm, while still providing visual interest with its delicate patterns."
+   ],
+   "features": [
+    "The base colour is a light, airy pale grey, or even a hint of the palest blue.",
+    "The veining is delicate and subtle in shades of grey and white adding depth and visual interest without disrupting the overall sense of calm.",
+    "Creates a bright and uplifting foundation for any space."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-aurora-cloud.webp",
+   "room": "craftmark-surfaces-kitchen-bathroom-aurora-cloud-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-aurora-cloud-modern-benchtop-installer.webp"
+   ],
+   "tone": "Pale grey / delicate grey and white veining"
+  },
+  {
+   "name": "Sabbia Dune",
+   "slug": "sabbia-dune",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Sabbia Dune benchtop evokes natural tranquillity and understated elegance with its warm, neutral tones inspired by desert landscapes, gentle flowing pattern, and versatile design that complements various styles.",
+   "intro": [
+    "A Sabbia Dune benchtop evokes a sense of natural tranquillity and understated elegance. Its colour palette is inspired by the soft, shifting sands of a desert landscape. Its neutral tones make it a versatile choice, complementing a wide range of design styles and colour schemes. It brings a sense of serenity and connection to nature into the heart of the home."
+   ],
+   "features": [
+    "Featuring a warm, neutral base in shades of beige, cream, or light grey.",
+    "With a gentle, flowing pattern the texture has a subtle granular appearance.",
+    "Creates a calming and inviting atmosphere adding a touch of organic sophistication."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-sabbia-dune.webp",
+   "room": "craftmark-surfaces-kitchen-bathroom-sabbia-dune-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-dune-modern-benchtop-installer.webp"
+   ],
+   "tone": "Warm beige / gentle granular movement"
+  },
+  {
+   "name": "Artesian Concrete",
+   "slug": "artesian-concrete",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Artesian Concrete benchtop offers a warm, modern, industrial-chic aesthetic with its soft, creamy beige tone, subtle concrete-like texture, and versatile design that complements both industrial and natural materials.",
+   "intro": [
+    "Our Artesian Concrete benchtop offers a modern, industrial-chic aesthetic with a touch of warmth. Capturing the urban, contemporary feel of concrete, the ecru tone adds a touch of sophistication adding texture and visual interest while maintaining a clean and minimalist aesthetic.",
+    "The Artesian Concrete benchtop pairs well with other industrial-inspired elements like metal accents and open shelving, as well as with more natural materials like wood and stone."
+   ],
+   "features": [
+    "Soft, off-white or creamy beige (ecru), reminiscent of unpolished concrete.",
+    "The surface displays subtle texture, mimicking the natural variations and imperfections of concrete with a fine, granular appearance.",
+    "Provides a neutral backdrop that's less visually dominant than a darker grey concrete, allowing other elements in the space to stand out."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-artesian-concrete.webp",
+   "room": "craftmark-surfaces-kitchen-bathroom-artesian-concrete-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-bathroom-ecru-concrete-sample-installer.webp"
+   ],
+   "tone": "Ecru / fine concrete texture"
+  },
+  {
+   "name": "Whisper",
+   "slug": "whisper",
+   "discontinued": false,
+   "outdoor": true,
+   "desc": "The Whisper benchtop, with its soft tones and subtle texture, offers quiet sophistication and seamless indoor-outdoor harmony.",
+   "intro": [
+    "Our Whisper benchtop exudes an aura of quiet sophistication and understated elegance. A delicate, subtle presence with its soft, muted tones and gentle visual texture. A Whisper benchtop blends seamlessly with natural surroundings, creating a harmonious connection between indoor and outdoor spaces.",
+    "Designed to resist stains, scratches, and the harsh realities of outdoor living the surface also boasts superior UV resistance to prevent fading or chalking, ensuring its beauty endures year after year."
+   ],
+   "features": [
+    "Colour change of 5-15 ΔEab units in 10 years. Good choice for exterior application if some colour change is not objectionable.",
+    "Minimum 10% recycled content.",
+    "Faintest hint of colour with a whisper of warm grey, creamy beige, or a barely-there blush."
+   ],
+   "swatch": "craftmark-surfaces-outdoor-whisper.webp",
+   "room": null,
+   "installer": [],
+   "tone": "Barely-there warm grey / soft texture"
+  },
+  {
+   "name": "Dune Prima",
+   "slug": "dune-prima",
+   "discontinued": false,
+   "outdoor": true,
+   "desc": "The Dune Prima benchtop, with its undulating, natural texture and sun-kissed hues, creates inviting outdoor retreats that seamlessly blend with surrounding landscapes.",
+   "intro": [
+    "The Dune Prima benchtop, designed for outdoor resilience, captures the essence of sun-kissed landscapes and natural textures. Showcasing an undulating pattern that mimics the subtle undulations of wind-swept sand or the natural grain of stone, a Dune Prima benchtop transforms outdoor spaces into inviting retreats, seamlessly blending with natural surroundings.",
+    "Beyond its aesthetic appeal, a Dune Prima benchtop is designed for practicality, offering resistance to stains, scratches, and the challenges of outdoor living. This benchtop is engineered to resist fading and chalking from prolonged UV exposure, maintaining its rich, natural hues for years to come."
+   ],
+   "features": [
+    "Featuring a blend of neutral tones, ranging from soft creams and beiges to warm greys and subtle browns, creating a rich, earthy foundation.",
+    "Texture adds visual depth and prevents the surface from appearing flat.",
+    "Colour change of less than or equal to 5 ΔEab units in 10 years. Good choice for exterior application."
+   ],
+   "swatch": "craftmark-surfaces-outdoor-dune-prima.webp",
+   "room": null,
+   "installer": [],
+   "tone": "Cream to warm grey / undulating texture"
+  },
+  {
+   "name": "Bruma Vagli",
+   "slug": "bruma-vagli",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Bruma Vagli benchtop evokes an ethereal and tranquil aesthetic with its soft off-white base, hazy grey undertones, and diffused, cloud-like movement that creates a bright, airy, and versatile foundation for any space.",
+   "intro": [
+    "The Bruma Vagli benchtop offers an ethereal and tranquil aesthetic, perfect for creating a soft, luminous atmosphere in any room. This benchtop provides a clean and airy foundation, brightening interiors while offering more visual intrigue and warmth than a solid plain white."
+   ],
+   "features": [
+    "Featuring a delicate, pale off-white base with faint, hazy grey undertones that mimic a soft morning fog.",
+    "Wispy, translucent veining that adds depth without being visually crowded.",
+    "Gentle neutrality seamlessly complementing coastal, minimalist, and contemporary designs."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-bruma-vagli.webp",
+   "room": null,
+   "installer": [],
+   "tone": "Off-white / hazy grey, wispy veining"
+  },
+  {
+   "name": "Grigio Pallazzo",
+   "slug": "grigio-pallazzo",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Grigio Pallazzo benchtop delivers a bold, industrial-chic aesthetic with its consistent medium-grey tone and fine granular texture, providing a sophisticated and durable foundation for modern spaces.",
+   "intro": [
+    "The Grigio Pallazzo benchtop offers a sleek, grounded aesthetic that perfectly captures a modern industrial vibe. The surface is characterised by a dense, fine-grained speckled pattern, with minute light grey and translucent inclusions that give it a concrete-like depth without the unpredictability of natural stone."
+   ],
+   "features": [
+    "Featuring a solid, medium-to-dark cool grey base that provides a strong, neutral foundation for a space.",
+    "The look is consistent and understated, offering an urban, matte-style appearance that feels both durable and sophisticated.",
+    "An ideal match for industrial, minimalist, or ultra-modern designs, pairing exceptionally well with stainless steel, matte black fixtures or raw timber accents."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-grigio-pallazzo.webp",
+   "room": null,
+   "installer": [],
+   "tone": "Mid to dark cool grey / fine speckle"
+  },
+  {
+   "name": "Pietra Urbana",
+   "slug": "pietra-urbana",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Pietra Urbana benchtop offers a grounded, contemporary aesthetic through its balanced grey tones and subtle stone-like texture, perfectly suited for modern urban interiors.",
+   "intro": [
+    "The Pietra Urbana benchtop captures the essence of contemporary city living, blending the raw, architectural appeal of stone with a refined modern finish. Its balanced grey palette provides a versatile foundation that brings a sense of grounded stability and \"urban chic\" to any design."
+   ],
+   "features": [
+    "Sophisticated medium-grey base that serves as a seamless bridge between industrial and minimalist aesthetics.",
+    "Subtle, tonal mottling and fine granular inclusions that mimic the organic variations of natural urban stone.",
+    "A clean, matte-inspired look that complements metallic accents, raw timber or bold monochromatic cabinetry."
+   ],
+   "swatch": null,
+   "room": null,
+   "installer": [],
+   "tone": "Mid grey / tonal mottling"
+  },
+  {
+   "name": "Taj Sogno",
+   "slug": "taj-sogno",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Taj Sogno benchtop embodies luxurious warmth and organic elegance through its creamy, multi-tonal palette and dynamic veining offering a sophisticated alternative to natural quartzite.",
+   "intro": [
+    "The Taj Sogno benchtop evokes a sense of timeless luxury and organic warmth, drawing inspiration from the prestigious beauty of natural quartzite. Its creamy, multi-tonal surface features a rich tapestry of movement, creating a sophisticated focal point that brings a soft, \"dreamlike\" elegance to the heart of the home."
+   ],
+   "features": [
+    "Warm, off-white base interwoven with delicate veins of taupe, gold, and soft grey for a naturally layered appearance.",
+    "Showcases flowing, cloud-like patterns and subtle crystalline depth that mimic the complex geological character of authentic stone.",
+    "Pairs beautifully with warm timber cabinetry, brass hardware or clean contemporary finishes."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-taj-sogno.webp",
+   "room": null,
+   "installer": [],
+   "tone": "Warm off-white / taupe / gold / soft grey"
+  },
+  {
+   "name": "Ombra Concrete",
+   "slug": "ombra-concrete",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Ombra Concrete benchtop delivers a bold industrial-chic statement through its deep charcoal tones and subtle, weathered texture, offering a sophisticated and modern alternative to traditional stone.",
+   "intro": [
+    "The Ombra Concrete benchtop offers a moody and sophisticated industrial aesthetic, capturing the raw, urban essence of weathered concrete with a refined finish. Its deep, charcoal-grey base provides a strong sense of grounding and architectural depth, making it a perfect choice for those looking to add a touch of \"modern drama\" to their space."
+   ],
+   "features": [
+    "A rich, medium-to-dark grey palette that mimics the cool, atmospheric tones of cured industrial concrete.",
+    "Subtle, tonal variations and a fine granular texture that breaks up the solid colour.",
+    "A bold, \"grounding presence\" that pairs well with raw timber, matte black hardware or exposed brickwork."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-ombra-concrete.webp",
+   "room": null,
+   "installer": [],
+   "tone": "Charcoal grey / weathered texture"
+  },
+  {
+   "name": "Luna Bianco",
+   "slug": "luna-bianco",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Luna Bianco benchtop provides a brilliant, light-reflecting foundation with a fine, starlit speckle that offers modern clarity and a sophisticated, minimalist aesthetic.",
+   "intro": [
+    "The Luna Bianco benchtop offers a crisp, luminous aesthetic that brings a sense of expansive clarity and modern freshness to any interior. Its brilliant, pure white base acts as a radiant canvas, significantly brightening a room by reflecting natural light. It provides a versatile, elegant foundation that effortlessly complements both bold accents and neutral palettes."
+   ],
+   "features": [
+    "Features a fine, uniform speckle of minute translucent and light grey particles, reminiscent of a clear night sky.",
+    "Delicate patterning adds a sophisticated visual interest that prevents the surface from appearing flat or sterile while maintaining a clean, minimalist appeal.",
+    "A clean, contemporary neutral backdrop for both bold architectural accents and soft, organic textures."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-luna-bianco.webp",
+   "room": null,
+   "installer": [],
+   "tone": "Pure white / fine light grey speckle"
+  },
+  {
+   "name": "Obsidian Nuvo",
+   "slug": "obsidian-nuvo",
+   "discontinued": false,
+   "outdoor": false,
+   "desc": "The Obsidian Nuvo benchtop offers modern drama with its cool, neutral grey tones, subtle texture reminiscent of the moon's surface, and ability to blend seamlessly in minimalist, industrial, or contemporary designs.",
+   "intro": [
+    "An Obsidian Nuvo benchtop adds a touch of modern drama to a space without being overwhelming. It works particularly well in minimalist, industrial, or contemporary designs. The subtle variations in texture and colour ensure that it's never boring, while the neutral tones allow it to blend seamlessly with a variety of design palettes."
+   ],
+   "features": [
+    "The colour palette is a range of cool, neutral greys, from the softest, almost-white shades to deeper, more pronounced charcoals.",
+    "Characterised by a textured, subtly mottled surface, reminiscent of the craters and plains of the moon.",
+    "A bold choice that can serve as a unique focal point in a space."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-moonscape.jpg",
+   "room": "craftmark-surfaces-kitchen-bathroom-obsidian-nuvo-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-bathroom-obsidian-nuvo-sample-installer.webp"
+   ],
+   "tone": "Cool grey to charcoal / mottled texture"
+  },
+  {
+   "name": "Rustic Terrazzo",
+   "slug": "rustic-terrazzo",
+   "discontinued": true,
+   "outdoor": false,
+   "desc": "The Rustic Terrazzo benchtop brings warmth and character with its warm grey base, varied earthy-toned chips, and handcrafted feel, complementing natural materials and relaxed design styles.",
+   "intro": [
+    "The base colour is a warm grey."
+   ],
+   "features": [
+    "The terrazzo chips feature earthy tones of browns, beiges, ambers and hints of terracotta.",
+    "Celebrates imperfection and embraces the beauty of natural variation."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-rustic-terrazzo.jpg",
+   "room": "craftmark-surfaces-kitchen-bathroom-rustic-terrazzo-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-bathroom-rustic-terrazzo-sample-installer.webp"
+   ],
+   "tone": ""
+  },
+  {
+   "name": "Platinum Terrazzo",
+   "slug": "platinum-terrazzo",
+   "discontinued": true,
+   "outdoor": false,
+   "desc": "The Platinum Terrazzo benchtop adds urban chic and playful sophistication with its light grey base, metallic shimmer, and varied terrazzo chips in white, silver, and black, creating a glamorous and modern feel.",
+   "intro": [
+    "Elegant base colour of light to medium grey with a subtle metallic shimmer."
+   ],
+   "features": [
+    "Terrazzo chips in varying sizes and shapes with hints of white, silver and a touch of black for contrast.",
+    "The texture of the terrazzo chips catch the light preventing the surface from appearing flat or dull."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-platinum-terrazzo.webp",
+   "room": "craftmark-surfaces-kitchen-bathroom-platinum-terrazzo-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-bathroom-platinum-terrazzo-sample-installer.webp"
+   ],
+   "tone": ""
+  },
+  {
+   "name": "Storm Grey",
+   "slug": "storm-grey",
+   "discontinued": true,
+   "outdoor": false,
+   "desc": "The Storm Grey benchtop is a sophisticated, modern surface with a deep, textured grey reminiscent of a stormy sky, offering a grounding presence and bold yet subtle elegance.",
+   "intro": [
+    "The colour ranges from a medium to dark grey with subtle variations and undertones to add depth and interest."
+   ],
+   "features": [
+    "A textured appearance mimics the swirling clouds of a storm.",
+    "Adds a touch of boldness without being overly assertive."
+   ],
+   "swatch": "craftmark-surfaces-kitchen-bathroom-storm-grey.webp",
+   "room": "craftmark-surfaces-kitchen-bathroom-storm-grey-sample.webp",
+   "installer": [
+    "craftmark-surfaces-kitchen-bathroom-storm-grey-sample-installer.webp"
+   ],
+   "tone": ""
+  },
+  {
+   "name": "Glacier White",
+   "slug": "glacier-white",
+   "discontinued": false,
+   "outdoor": true,
+   "desc": "The Glacier White benchtop, engineered for outdoor resilience, creates a modern, timeless and bright focal point that transforms outdoor spaces into sophisticated sanctuaries.",
+   "intro": [
+    "Our Glacier White benchtop, designed to endure the outdoors, evokes the pristine beauty and icy clarity of a snow-capped peak. This clean, minimalist aesthetic allows surrounding elements to shine, while the benchtop itself acts as a bright, grounding focal point. A Glacier White benchtop transforms outdoor spaces into modern sanctuaries of light and sophistication, offering a timeless aesthetic that endures through seasons and trends.",
+    "Engineered for outdoor resilience, this benchtop is crafted with superior UV resistance. Constructed from durable materials, it resists stains, scratches making it ideal for outdoor kitchens, poolside bars, or alfresco dining areas."
+   ],
+   "features": [
+    "A crisp, clean white that brings a sense of spaciousness and light to any setting.",
+    "Minimalist aesthetic seamlessly integrates with a variety of design styles.",
+    "Colour change of less than or equal to 5 ΔEab units in 10 years. Good choice for exterior application."
+   ],
+   "swatch": "craftmark-surfaces-outdoor-glacier-white.webp",
+   "room": null,
+   "installer": [],
+   "tone": "Crisp white / clean and even"
+  },
+  {
+   "name": "Weathered Concrete",
+   "slug": "weathered-concrete",
+   "discontinued": false,
+   "outdoor": true,
+   "desc": "A Weathered Concrete benchtop, with its soft brown hue, white and brown flecks, and mottled, aged appearance, delivers a durable, UV-resistant, and urban-industrial aesthetic for outdoor spaces.",
+   "intro": [
+    "The Weathered Concrete benchtop, designed for outdoor resilience, brings an urban, industrial-chic aesthetic with a touch of natural patina to your outdoor space. The colour palette features a soft brown hue with subtle variations and mottling that mimic the natural aging process of concrete. The white and brown flecks adds depth and visual interest.",
+    "Engineered for the outdoors, it is designed to withstand the challenges of weather, resisting stains and scratches and also offers exceptional UV resistance to prevent fading and discolouration, ensuring its rugged beauty endures."
+   ],
+   "features": [
+    "Colour change of 5-15 ΔEab units in 10 years. Good choice for exterior application if some colour change is not objectionable.",
+    "Features varying shades of grey, from light to dark, with subtle variations and mottling.",
+    "Creates a striking focal point."
+   ],
+   "swatch": "craftmark-surfaces-outdoor-weathered-concrete.webp",
+   "room": null,
+   "installer": [],
+   "tone": "Soft brown-grey / mottled and flecked"
+  }
+ ],
+ "doors": [
+  {
+   "name": "Bathurst",
+   "slug": "bathurst",
+   "page": true,
+   "spec": "40mm rails, V groove route",
+   "thumb": "bathurst-s2-1-thumb.webp",
+   "images": [
+    "bathurst-s2-1.webp",
+    "bathurst-s2-2.webp",
+    "bathurst.webp"
+   ],
+   "style": "shaker",
+   "photo": "bathurst.webp"
+  },
+  {
+   "name": "Bilpin 20",
+   "slug": "bilpin-20",
+   "page": true,
+   "spec": "20mm spaced V grooves",
+   "thumb": "bilpin-20-1-thumb.webp",
+   "images": [
+    "bilpin-20-1.webp",
+    "bilpin-20-2.webp"
+   ],
+   "style": "grooved",
+   "photo": null
+  },
+  {
+   "name": "Bilpin 30",
+   "slug": "bilpin-30",
+   "page": true,
+   "spec": "30mm spaced V grooves",
+   "thumb": "bilpin-30-1-thumb.webp",
+   "images": [
+    "bilpin-30-1.webp",
+    "bilpin-30-2.webp"
+   ],
+   "style": "grooved",
+   "photo": null
+  },
+  {
+   "name": "Bilpin 40",
+   "slug": "bilpin-40",
+   "page": true,
+   "spec": "40mm spaced V grooves",
+   "thumb": "bilpin-s2-1-thumb.webp",
+   "images": [],
+   "spec_unconfirmed": true,
+   "style": "grooved",
+   "photo": null
+  },
+  {
+   "name": "Bilpin 50",
+   "slug": "bilpin-50",
+   "page": true,
+   "spec": "50mm spaced V grooves",
+   "thumb": "bilpin-50-1-thumb.webp",
+   "images": [
+    "bilpin-50-1.webp",
+    "bilpin-50-2.webp",
+    "bilpin-50.webp"
+   ],
+   "style": "grooved",
+   "photo": "bilpin-50.webp"
+  },
+  {
+   "name": "Bilpin 60",
+   "slug": "bilpin-60",
+   "page": true,
+   "spec": "60mm spaced V grooves",
+   "thumb": "bilpin-60-1-thumb.webp",
+   "images": [
+    "bilpin-60-1.webp",
+    "bilpin-60-2.webp",
+    "bilpin-60.webp"
+   ],
+   "style": "grooved",
+   "photo": "bilpin-60.webp"
+  },
+  {
+   "name": "Blackheath",
+   "slug": "blackheath",
+   "page": true,
+   "spec": "60mm rails, 3mm pocket",
+   "thumb": "blackheath-s4-1-thumb.webp",
+   "images": [
+    "blackheath-s4-1.webp",
+    "blackheath-s4-2.webp"
+   ],
+   "style": "shaker",
+   "photo": null
+  },
+  {
+   "name": "Blaxland",
+   "slug": "blaxland",
+   "page": true,
+   "spec": "45 degree internal with 3mm deep pocket, 60mm outer frame",
+   "thumb": "blaxland-s4-1-thumb.webp",
+   "images": [
+    "blaxland-s4-1.webp",
+    "blaxland-s4-2.webp"
+   ],
+   "style": "detailed",
+   "photo": null
+  },
+  {
+   "name": "Cattai",
+   "slug": "cattai",
+   "page": true,
+   "spec": "Bevelled internal and rounded external with beaded inner frame",
+   "thumb": "cattai-s4-1-thumb.webp",
+   "images": [
+    "cattai-s4-1.webp",
+    "cattai-s4-2.webp"
+   ],
+   "style": "detailed",
+   "photo": null
+  },
+  {
+   "name": "Cowra",
+   "slug": "cowra",
+   "page": true,
+   "spec": "33mm wide pattern rout with 60mm frame",
+   "thumb": "cowra-s4-1-thumb.webp",
+   "images": [
+    "cowra-s4-1.webp",
+    "cowra-s4-2.webp"
+   ],
+   "style": "detailed",
+   "photo": null
+  },
+  {
+   "name": "Glenbrook",
+   "slug": "glenbrook",
+   "page": true,
+   "spec": "60mm rails, 3mm pocket",
+   "thumb": "glenbrook-s4-1-thumb.webp",
+   "images": [
+    "glenbrook-s4-1.webp",
+    "glenbrook-s4-2.webp"
+   ],
+   "style": "shaker",
+   "photo": null
+  },
+  {
+   "name": "Hartley",
+   "slug": "hartley",
+   "page": true,
+   "spec": "50mm spaced grooves",
+   "thumb": "hartley-s5-1-thumb.webp",
+   "images": [
+    "hartley-s5-1.webp",
+    "hartley-s5-2.webp"
+   ],
+   "style": "grooved",
+   "photo": null
+  },
+  {
+   "name": "Hazelbrook",
+   "slug": "hazelbrook",
+   "page": true,
+   "spec": "Flat panel door",
+   "thumb": "hazelbrook-s1-1-thumb.webp",
+   "images": [
+    "hazelbrook-s1-1.webp",
+    "hazelbrook-s1-2.webp",
+    "hazelbrook.webp"
+   ],
+   "style": "flat",
+   "photo": "hazelbrook.webp"
+  },
+  {
+   "name": "Irvine",
+   "slug": "irvine",
+   "page": true,
+   "spec": "60mm rails, 6mm pocket",
+   "thumb": "irvine-s4-1-thumb.webp",
+   "images": [
+    "irvine-s4-1.webp",
+    "irvine-s4-2.webp",
+    "irvine.webp"
+   ],
+   "style": "shaker",
+   "photo": "irvine.webp"
+  },
+  {
+   "name": "Kandos",
+   "slug": "kandos",
+   "page": true,
+   "spec": "60mm rails",
+   "thumb": "kandos-1-thumb.webp",
+   "images": [
+    "kandos-1.webp",
+    "kandos-2.webp"
+   ],
+   "style": "shaker",
+   "photo": null
+  },
+  {
+   "name": "Katoomba",
+   "slug": "katoomba",
+   "page": true,
+   "spec": "45 degree internal with 3mm deep pocket, 50mm outer frame",
+   "thumb": "katoomba-s4-1-thumb.webp",
+   "images": [
+    "katoomba-s4-1.webp",
+    "katoomba-s4-2.webp",
+    "katoomba.webp"
+   ],
+   "style": "detailed",
+   "photo": "katoomba.webp"
+  },
+  {
+   "name": "Kurrajong",
+   "slug": "kurrajong",
+   "page": true,
+   "spec": "Rounded internal and bevelled external with squared inner frame",
+   "thumb": "kurrajong-s4-1-thumb.webp",
+   "images": [
+    "kurrajong-s4-1.webp",
+    "kurrajong-s4-2.webp"
+   ],
+   "style": "detailed",
+   "photo": null
+  },
+  {
+   "name": "Lawson",
+   "slug": "lawson",
+   "page": true,
+   "spec": "60mm rails, V groove route",
+   "thumb": "lawson-s2-1-thumb.webp",
+   "images": [
+    "lawson-s2-1.webp",
+    "lawson-s2-2.webp"
+   ],
+   "style": "shaker",
+   "photo": null
+  },
+  {
+   "name": "Leura",
+   "slug": "leura",
+   "page": true,
+   "spec": "50mm rails, 6mm pocket",
+   "thumb": "leura-s4-1-thumb.webp",
+   "images": [
+    "leura-s4-1.webp",
+    "leura-s4-2.webp"
+   ],
+   "style": "shaker",
+   "photo": null
+  },
+  {
+   "name": "Linden",
+   "slug": "linden",
+   "page": true,
+   "spec": "40mm rails, V groove route",
+   "thumb": "linden-s2-1-thumb.webp",
+   "images": [
+    "linden-s2-1.webp",
+    "linden-s2-2.webp"
+   ],
+   "style": "shaker",
+   "photo": null
+  },
+  {
+   "name": "Lithgow",
+   "slug": "lithgow",
+   "page": true,
+   "spec": "60mm rails, 3mm pocket",
+   "thumb": "lithgow-s4-1-thumb.webp",
+   "images": [
+    "lithgow-s4-1.webp",
+    "lithgow-s4-2.webp",
+    "lithgow.webp"
+   ],
+   "style": "shaker",
+   "photo": "lithgow.webp"
+  },
+  {
+   "name": "Molong",
+   "slug": "molong",
+   "page": true,
+   "spec": "60mm rails",
+   "thumb": "molong-1-thumb.webp",
+   "images": [
+    "molong-1.webp",
+    "molong-2.webp"
+   ],
+   "style": "shaker",
+   "photo": null
+  },
+  {
+   "name": "Mudgee",
+   "slug": "mudgee",
+   "page": true,
+   "spec": "5mm route with 60mm outer frame",
+   "thumb": "mudgee-s2-1-thumb.webp",
+   "images": [
+    "mudgee-s2-1.webp",
+    "mudgee-s2-2.webp"
+   ],
+   "style": "shaker",
+   "photo": null
+  },
+  {
+   "name": "Mulgrave",
+   "slug": "mulgrave",
+   "page": true,
+   "spec": "25mm cove routes",
+   "thumb": "mulgrave-s6-1-thumb.webp",
+   "images": [
+    "mulgrave-s6-1.webp",
+    "mulgrave-s6-2.webp"
+   ],
+   "style": "grooved",
+   "photo": null
+  },
+  {
+   "name": "Oakville",
+   "slug": "oakville",
+   "page": true,
+   "spec": "60mm rails",
+   "thumb": "oakville-s6-1-thumb.webp",
+   "images": [
+    "oakville-s6-1.webp",
+    "oakville-s6-2.webp",
+    "oakville.webp"
+   ],
+   "style": "shaker",
+   "photo": "oakville.webp"
+  },
+  {
+   "name": "Oberon",
+   "slug": "oberon",
+   "page": true,
+   "spec": "Mitred fingerpull detail to nominated edge",
+   "thumb": "oberon-s1-1-thumb.webp",
+   "images": [
+    "oberon-s1-1.webp",
+    "oberon-s1-2.webp",
+    "oberon.webp"
+   ],
+   "style": "flat",
+   "photo": "oberon.webp"
+  },
+  {
+   "name": "Richmond",
+   "slug": "richmond",
+   "page": true,
+   "spec": "60mm rails",
+   "thumb": "richmond-s6-1-thumb.webp",
+   "images": [
+    "richmond-s6-1.webp",
+    "richmond-s6-2.webp"
+   ],
+   "style": "shaker",
+   "photo": null
+  },
+  {
+   "name": "Springwood",
+   "slug": "springwood",
+   "page": true,
+   "spec": "10mm rails, 3mm pocket",
+   "thumb": "springwood-s5-1-thumb.webp",
+   "images": [
+    "springwood-s5-1.webp",
+    "springwood-s5-2.webp",
+    "springwood.webp"
+   ],
+   "style": "shaker",
+   "photo": "springwood.webp"
+  },
+  {
+   "name": "Wentworth",
+   "slug": "wentworth",
+   "page": true,
+   "spec": "225 degree internal with 3mm deep pocket, 60mm outer frame",
+   "thumb": "wentworth-s4-1-thumb.webp",
+   "images": [
+    "wentworth-s4-1.webp",
+    "wentworth-s4-2.webp",
+    "wentworth.webp"
+   ],
+   "style": "detailed",
+   "photo": "wentworth.webp"
+  },
+  {
+   "name": "Windsor",
+   "slug": "windsor",
+   "page": true,
+   "spec": "Triple internal step with 3mm deep pocket, V groove to outside of shaker",
+   "thumb": "windsor-s6-1-thumb.webp",
+   "images": [
+    "windsor-s6-1.webp",
+    "windsor-s6-2.webp"
+   ],
+   "style": "detailed",
+   "photo": null
+  },
+  {
+   "name": "Winmalee",
+   "slug": "winmalee",
+   "page": true,
+   "spec": "20mm rails, 3mm pocket",
+   "thumb": "winmalee-s5-1-thumb.webp",
+   "images": [
+    "winmalee-s5-1.webp",
+    "winmalee-s5-2.webp",
+    "winmalee.webp"
+   ],
+   "style": "shaker",
+   "photo": "winmalee.webp"
+  },
+  {
+   "name": "Woodford",
+   "slug": "woodford",
+   "page": true,
+   "spec": "60mm rails, 3mm pocket",
+   "thumb": "woodford-s4-1-thumb.webp",
+   "images": [
+    "woodford-s4-1.webp",
+    "woodford-s4-2.webp"
+   ],
+   "style": "shaker",
+   "photo": null
+  }
+ ]
+}

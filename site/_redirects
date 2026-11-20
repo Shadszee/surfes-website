@@ -1,0 +1,11 @@
+# Old Webflow addresses -> new pages (Cloudflare Pages format)
+/contact-us                                   /contact/            301
+/blog/*                                       /news/               301
+/surface-ranges/outdoor-range                 /solid-surfaces/     301
+/products/solid-surfaces/rustic-terrazzo      /solid-surfaces/     301
+/products/solid-surfaces/platinum-terrazzo    /solid-surfaces/     301
+/products/solid-surfaces/storm-grey           /solid-surfaces/     301
+/products/solid-surfaces/:slug                /solid-surfaces/:slug/    301
+/products/solid-surfaces                      /solid-surfaces/     301
+/products/mdf-routed-doors/:slug              /mdf-routed-doors/:slug/  301
+/products/mdf-routed-doors                    /mdf-routed-doors/   301
